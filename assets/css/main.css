@@ -816,6 +816,9 @@ a.back-to-top:hover, a.back-to-top:focus {
   #nav-main li a.nav-link {
     padding-top: 18px;
   }
+  #iciciac-header{
+    font-size:10px !important;
+  }
 }
 
 .navbar-toggler {
@@ -831,6 +834,9 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 @media screen and (max-width: 768px) {
+  #iciciac-header{
+    font-size:10px !important;
+  }
   .navbar-header {
     width: 100%;
   }
